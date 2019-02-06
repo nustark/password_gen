@@ -9,3 +9,5 @@ What it does:
 - Generate random words, symbols, numbers, from the JSON file, list, random method respectively
 
 ![sample](sample.gif)
+
+The words list was obtained from [github.com/dwyl](https://github.com/dwyl/english-words); the words are from infochimps.com and as such copyright belongs to them.
