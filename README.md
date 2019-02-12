@@ -1,4 +1,4 @@
-# password_gen
+# password-gen
 
 Reads a given JSON file of over 400,000 words and to form a secure password following a format consisting of two uppercase letters, a number, and a digit.
 
